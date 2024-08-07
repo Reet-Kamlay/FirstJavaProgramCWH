@@ -29,7 +29,7 @@ public class interfaces {
         avoncycle cycle=new avoncycle();
         cycle.applyBrake(5);
         System.out.println(cycle.a);
-        cycle.a=34;
+//        cycle.a=34;
 
     }
 }

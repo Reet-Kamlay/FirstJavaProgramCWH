@@ -21,8 +21,8 @@ abstract class child3 extends parent2{
 }
 public class abstract_classes {
     public static void main(String[] args) {
-        parent2 p1=new parent1();
+//        parent2 p1=new parent1();
         child2 c1=new child2();
-        child3 c2=new child3();
+//        child3 c2=new child3();
     }
 }
